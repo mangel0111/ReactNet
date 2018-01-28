@@ -1,0 +1,9 @@
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\bin\AdventureWorks.UI.dll.config
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\bin\AdventureWorks.UI.dll
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\bin\AdventureWorks.UI.pdb
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\obj\Debug\AdventureWorks.UI.csprojResolveAssemblyReference.cache
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\obj\Debug\AdventureWorks.UI.csproj.CoreCompileInputs.cache
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\obj\Debug\AdventureWorks.UI.dll
+C:\Users\stephaniemaria\source\repos\AdventureWorks\AdventureWorks.UI\obj\Debug\AdventureWorks.UI.pdb

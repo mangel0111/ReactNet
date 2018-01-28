@@ -1,4 +1,4 @@
-'# ReactNet' 
+# ReactNet
 
 ReactNet is a experimental project who mix .NET in the backend using SQL Server in the backend, and React in the FE, This project made a simple CRUD with the employees of the database Adventure works 2012.
 
